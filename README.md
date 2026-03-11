@@ -22,7 +22,8 @@ Edit the Python file database name:
 
 Execute the Python file:
   python -u sqlite-to-sqlserver.py <database.db>
-![image alt](https://imgur.com/a/3JyrsKd](https://imgur.com/a/CUsHHGq)
+![image alt](https://imgur.com/a/CUsHHGq)
+
 ---
 
 # Requisitos
