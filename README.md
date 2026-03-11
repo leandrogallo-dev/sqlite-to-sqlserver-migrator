@@ -22,7 +22,10 @@ La aplicación:
       - "DATABASE=master;"
 
 3.  Execute the Python file:
+
   python -u sqlite-to-sqlserver.py <database.db>
+
+
 ![image alt](https://github.com/leandrogallo-dev/img-url-repository/blob/main/2.png?raw=true)
 
 ---
