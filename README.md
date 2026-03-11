@@ -14,6 +14,7 @@ La aplicación:
 
 # Metodo de USO
 Create the empty database in SQL Server
+
 ![image alt](https://github.com/leandrogallo-dev/img-url-repository/blob/main/1.png?raw=true)
 
 Edit the Python file database name:
