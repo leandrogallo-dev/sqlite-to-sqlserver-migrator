@@ -14,7 +14,7 @@ La aplicación:
 
 # Metodo de USO
 Create the empty database in SQL Server
-![image alt](https://imgur.com/a/3JyrsKd)
+![image alt](https://github.com/leandrogallo-dev/img-url-repository/blob/main/1.png?raw=true)
 
 Edit the Python file database name:
   SQL_DATABASE = "master"
@@ -22,7 +22,7 @@ Edit the Python file database name:
 
 Execute the Python file:
   python -u sqlite-to-sqlserver.py <database.db>
-![image alt](https://imgur.com/a/CUsHHGq)
+![image alt](https://github.com/leandrogallo-dev/img-url-repository/blob/main/2.png?raw=true)
 
 ---
 
