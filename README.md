@@ -13,15 +13,15 @@ La aplicación:
 ---
 
 # Metodo de USO
-Create the empty database in SQL Server
+1.  Create the empty database in SQL Server
 
 ![image alt](https://github.com/leandrogallo-dev/img-url-repository/blob/main/1.png?raw=true)
 
-Edit the Python file database name:
-  SQL_DATABASE = "master"
-  "DATABASE=master;"
+2.  Edit the Python file database name:
+      - SQL_DATABASE = "master"
+      - "DATABASE=master;"
 
-Execute the Python file:
+3.  Execute the Python file:
   python -u sqlite-to-sqlserver.py <database.db>
 ![image alt](https://github.com/leandrogallo-dev/img-url-repository/blob/main/2.png?raw=true)
 
@@ -39,8 +39,14 @@ Antes de ejecutar el script debes tener instalado:
 
 # Instalación
 
-### 1️⃣ Clonar el repositorio
+### Clonar el repositorio
 
 ```bash
 git clone https://github.com/TU-USUARIO/sqlite-to-sqlserver-migrator.git
 cd sqlite-to-sqlserver-migrator
+```
+### pip
+
+```bash
+pip install pyodbc tqdm
+```
